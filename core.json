@@ -13,13 +13,11 @@
         "value": "3px",
         "type": "borderWidth"
       },
-
       "xl": {
         "value": "5px",
         "type": "borderWidth"
       }
     },
-
     "colors": {
       "TEST": {
         "Lightpurple": {
@@ -821,7 +819,6 @@
         }
       }
     },
-
     "dimension": {
       "scale": {
         "value": "2",
@@ -848,7 +845,6 @@
         "type": "dimension"
       }
     },
-
     "fontSizes": {
       "8": {
         "value": "8px",
@@ -899,7 +895,6 @@
         "type": "fontSizes"
       }
     },
-
     "fontWeight": {
       "400": {
         "value": "Regular",
@@ -914,7 +909,6 @@
         "type": "fontWeights"
       }
     },
-
     "lineHeights": {
       "heading": {
         "value": "110%",
@@ -928,13 +922,11 @@
         "value": "120%",
         "type": "lineHeights"
       },
-
       "medium": {
         "value": "150%",
         "type": "lineHeights"
       }
     },
-
     "letterSpacing": {
       "default": {
         "value": "0",
@@ -949,7 +941,6 @@
         "type": "letterSpacing"
       }
     },
-
     "sizing": {
       "1": {
         "value": "1",
@@ -1020,7 +1011,6 @@
         "type": "sizing"
       }
     },
-
     "spacing": {
       "1": {
         "value": "1",
@@ -1031,7 +1021,7 @@
         "type": "spacing"
       },
       "3": {
-        "value": "3",
+        "value": "30",
         "type": "spacing"
       },
       "4": {
@@ -1070,20 +1060,17 @@
         "value": "64",
         "type": "spacing"
       },
-
       "negative4": {
         "value": "-4",
         "type": "spacing"
       }
     },
-
     "fontFamilies": {
       "RWE": {
         "value": "RWE Sans",
         "type": "fontFamilies"
       }
     },
-
     "paragraphSpacing": {
       "h1": {
         "value": "32",
@@ -1094,7 +1081,6 @@
         "type": "paragraphSpacing"
       }
     },
-
     "radii": {
       "1": {
         "value": "1",
@@ -1117,12 +1103,17 @@
         "type": "borderRadius"
       }
     },
-
     "textdecoration": {
       "underline": {
         "value": "underline",
         "type": "textDecoration"
       }
     }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "core"
+    ]
   }
 }
