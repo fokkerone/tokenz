@@ -1,0 +1,157 @@
+{
+  "avatar": {
+    "dimension": {
+      "xs": {
+        "value": "{semantic.sizing.xs}",
+        "type": "sizing"
+      },
+      "s": {
+        "value": "{semantic.sizing.s}",
+        "type": "sizing"
+      },
+      "m": {
+        "value": "{semantic.sizing.m}",
+        "type": "sizing"
+      },
+      "l": {
+        "value": "{semantic.sizing.l}",
+        "type": "sizing"
+      },
+
+      "xl": {
+        "value": "{semantic.sizing.xl}",
+        "type": "sizing"
+      },
+
+      "dot": {
+        "xs": {
+          "value": "3px",
+          "type": "sizing"
+        },
+
+        "m": {
+          "value": " 7px",
+          "type": "sizing"
+        },
+        "l": {
+          "value": "13px",
+          "type": "sizing"
+        }
+      }
+    },
+
+    "radii": {
+      "xs": {
+        "value": "{semantic.radii.s}/2",
+        "type": "borderRadius"
+      },
+      "s": {
+        "value": "{semantic.radii.s}",
+        "type": "borderRadius"
+      },
+      "m": {
+        "value": "{semantic.radii.m}",
+        "type": "borderRadius"
+      },
+      "l": {
+        "value": "{semantic.radii.l}",
+        "type": "borderRadius"
+      },
+      "pill": {
+        "value": "{semantic.radii.pill}",
+        "type": "borderRadius"
+      }
+    },
+    "icon": {
+      "xs": {
+        "value": "{semantic.sizing.xs}",
+        "type": "sizing"
+      },
+      "s": {
+        "value": "{semantic.sizing.s}",
+        "type": "sizing"
+      },
+      "m": {
+        "value": "{semantic.sizing.m}",
+        "type": "sizing"
+      },
+      "l": {
+        "value": "{semantic.sizing.l}",
+        "type": "sizing"
+      }
+    },
+
+    "font": {
+      "light": {
+        "value": "{semantic.colors.font.light}",
+        "type": "color"
+      },
+      "dark": {
+        "value": "{semantic.colors.font.dark}",
+        "type": "color"
+      },
+      "contrast": {
+        "value": "{semantic.colors.font.contrast}",
+        "type": "color"
+      },
+      "muted": {
+        "brand": {
+          "value": "{semantic.colors.font.muted.brand}",
+          "type": "color"
+        }
+      }
+    },
+
+    "Image": {
+      "value": "https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2574&q=80",
+      "type": "asset"
+    },
+
+    "label": {
+      "xs": {
+        "value": "{semantic.fontSizes.paragraph.xs}",
+        "type": "typography"
+      },
+      "s": {
+        "value": "{semantic.fontSizes.paragraph.s}",
+        "type": "typography"
+      },
+      "m": {
+        "value": "8px",
+        "type": "typography"
+      },
+      "l": {
+        "value": "{semantic.fontSizes.paragraph.m}",
+        "type": "typography"
+      }
+    },
+    "med": {
+      "value": "{semantic.fontWeight.medium}",
+      "type": "fontWeights"
+    },
+    "stacked": {
+      "s": {
+        "value": "{core.spacing.negative4}",
+        "type": "spacing"
+      },
+      "m": {
+        "value": "{core.spacing.negative4}*2",
+        "type": "spacing"
+      }
+    },
+    "borderWidth": {
+      "s": {
+        "value": "{semantic.borderWidth.s}",
+        "type": "borderWidth"
+      },
+      "m": {
+        "value": "{semantic.borderWidth.m}",
+        "type": "borderWidth"
+      },
+      "l": {
+        "value": "{semantic.borderWidth.l}",
+        "type": "borderWidth"
+      }
+    }
+  }
+}

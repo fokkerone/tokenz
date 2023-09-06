@@ -1,0 +1,46 @@
+{
+  "breadcrumb": {
+    "label": {
+      "s": {
+        "value": "{semantic.fontSizes.paragraph.Caption}",
+        "type": "typography"
+      },
+      "m": {
+        "value": "{semantic.fontSizes.paragraph.s}",
+        "type": "typography"
+      },
+      "l": {
+        "value": "{semantic.fontSizes.paragraph.m}",
+        "type": "typography"
+      }
+    },
+    "primary": {
+      "default": {
+        "value": "{semantic.colors.primary.default}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{semantic.colors.primary.hover}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{semantic.colors.primary.active}",
+        "type": "color"
+      }
+    },
+    "secondary": {
+      "default": {
+        "value": "#ffcc00",
+        "type": "color"
+      },
+      "hover": {
+        "value": "#ff0000",
+        "type": "color"
+      },
+      "active": {
+        "value": "{semantic.colors.secondary.active}",
+        "type": "color"
+      }
+    }
+  }
+}

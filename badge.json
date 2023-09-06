@@ -1,0 +1,282 @@
+{
+  "badge": {
+    "label": {
+      "xs": {
+        "value": "{semantic.fontSizes.paragraph.xs}",
+        "type": "typography"
+      },
+      "s": {
+        "value": "{semantic.fontSizes.paragraph.Caption}",
+        "type": "typography"
+      },
+      "m": {
+        "value": "{semantic.fontSizes.paragraph.s}",
+        "type": "typography"
+      },
+      "l": {
+        "value": "{semantic.fontSizes.paragraph.m}",
+        "type": "typography"
+      }
+    },
+    "radii": {
+      "xs": {
+        "value": "{core.sizing.12}",
+        "type": "borderRadius"
+      },
+      "s": {
+        "value": "{core.sizing.16}",
+        "type": "borderRadius"
+      },
+      "m": {
+        "value": "{core.sizing.32}",
+        "type": "borderRadius"
+      },
+      "l": {
+        "value": "{core.sizing.40}",
+        "type": "borderRadius"
+      }
+    },
+    "Disabled": {
+      "value": "{semantic.opacity.disabled}",
+      "type": "opacity"
+    },
+    "borderwidth": {
+      "s": {
+        "value": "{semantic.borderWidth.s}",
+        "type": "borderWidth"
+      },
+      "m": {
+        "value": "{semantic.borderWidth.m}",
+        "type": "borderWidth"
+      }
+    },
+    "font": {
+      "light": {
+        "value": "{semantic.colors.font.light}",
+        "type": "color"
+      },
+      "dark": {
+        "value": "{semantic.colors.font.dark}",
+        "type": "color"
+      },
+      "contrast": {
+        "value": "{semantic.colors.font.contrast}",
+        "type": "color"
+      },
+      "muted": {
+        "brand": {
+          "value": "{semantic.colors.font.muted.brand}",
+          "type": "color"
+        }
+      }
+    },
+    "focus": {
+      "inverted": {
+        "value": "{semantic.colors.focus.inverted}",
+        "type": "color"
+      },
+      "dark": {
+        "value": "{semantic.colors.focus.dark}",
+        "type": "color"
+      }
+    },
+    "primary": {
+      "default": {
+        "value": "{semantic.colors.primary.default}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{semantic.colors.primary.hover}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{semantic.colors.primary.active}",
+        "type": "color"
+      }
+    },
+    "secondary": {
+      "default": {
+        "value": "{semantic.colors.secondary.default}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{semantic.colors.secondary.hover}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{semantic.colors.secondary.active}",
+        "type": "color"
+      }
+    },
+    "tertiary": {
+      "default": {
+        "value": "{semantic.colors.tertiary.default}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{semantic.colors.tertiary.hover}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{semantic.colors.tertiary.active}",
+        "type": "color"
+      }
+    },
+    "brand": {
+      "default": {
+        "value": "{semantic.colors.brand.default}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{semantic.colors.brand.hover}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{semantic.colors.brand.active}",
+        "type": "color"
+      },
+      "muted": {
+        "default": {
+          "value": "{semantic.colors.brand.muted.default}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{semantic.colors.brand.muted.hover}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{semantic.colors.brand.muted.active}",
+          "type": "color"
+        }
+      }
+    },
+    "gap": {
+      "s": {
+        "value": "{semantic.padding.s}",
+        "type": "spacing"
+      }
+    },
+    "padding": {
+      "base": {
+        "value": "{semantic.padding.base}",
+        "type": "spacing"
+      },
+      "xs": {
+        "value": "{semantic.padding.base}",
+        "type": "spacing"
+      },
+      "s": {
+        "value": "{semantic.padding.base}",
+        "type": "spacing"
+      },
+      "m": {
+        "value": "{semantic.padding.base}",
+        "type": "spacing"
+      },
+      "l": {
+        "value": "{semantic.padding.base}*1.5",
+        "type": "spacing"
+      }
+    },
+    "dimension": {
+      "s": {
+        "value": "12",
+        "type": "sizing"
+      },
+      "m": {
+        "value": "{semantic.sizing.m}",
+        "type": "sizing"
+      },
+      "dot": {
+        "xs": {
+          "value": "2",
+          "type": "sizing"
+        },
+        "s": {
+          "value": "{semantic.sizing.s}",
+          "type": "sizing"
+        },
+        "m": {
+          "value": "{semantic.sizing.m}",
+          "type": "sizing"
+        }
+      },
+      "icon": {
+        "s": {
+          "value": "{semantic.sizing.m}",
+          "type": "sizing"
+        }
+      }
+    },
+    "warning": {
+      "default": {
+        "value": "{semantic.colors.alert.warning.default}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{semantic.colors.alert.warning.hover}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{semantic.colors.alert.warning.active}",
+        "type": "color"
+      }
+    },
+    "error": {
+      "default": {
+        "value": "{semantic.colors.alert.error.default}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{semantic.colors.alert.error.hover}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{semantic.colors.alert.error.active}",
+        "type": "color"
+      }
+    },
+    "success": {
+      "default": {
+        "value": "{semantic.colors.alert.success.default}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{semantic.colors.alert.success.hover}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{semantic.colors.alert.success.active}",
+        "type": "color"
+      }
+    },
+    "info": {
+      "default": {
+        "value": "{semantic.colors.secondary.default}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{semantic.colors.secondary.hover}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{semantic.colors.secondary.active}",
+        "type": "color"
+      }
+    },
+    "neutrals": {
+      "white": {
+        "value": "{ semantic.colors.neutrals.light}",
+        "type": "color"
+      },
+      "bgLight": {
+        "value": "{semantic.colors.neutrals.bgLight}",
+        "type": "color"
+      }
+    },
+    "med": {
+      "value": "{semantic.fontWeight.medium}",
+      "type": "fontWeights"
+    }
+  }
+}

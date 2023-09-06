@@ -1,0 +1,38 @@
+{
+  "checkbox": {
+    "colors": {
+      "primary": {
+        "focus": {
+          "value": "red",
+          "type": "colors"
+        },
+        "hover": {
+          "value": "green",
+          "type": "colors"
+        }
+      }
+    },
+
+    "radii": {
+      "xs": {}
+    },
+    "dimension": {
+      "s": {
+        "value": "{semantic.sizing.xs}*0.75",
+        "type": "dimension"
+      },
+      "m": {
+        "value": "{semantic.sizing.xs}",
+        "type": "dimension"
+      },
+      "l": {
+        "value": "{semantic.sizing.xs} * 1,25",
+        "type": "dimension"
+      },
+      "xl": {
+        "value": "{semantic.sizing.xs} * 1,25",
+        "type": "dimension"
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "progress": {
+    "colors": {
+      "primary": {
+        "status": {
+          "value": "{semantic.colors.primary.default}",
+          "type": "colors"
+        },
+        "bg": {
+          "value": "{semantic.colors.primary.active}",
+          "type": "colors"
+        }
+      },
+      "secondary": {
+        "status": {
+          "value": "{semantic.colors.secondary.default}",
+          "type": "colors"
+        },
+        "bg": {
+          "value": "{semantic.colors.secondary.active}",
+          "type": "colors"
+        }
+      }
+    },
+
+    "radii": {
+      "xs": {}
+    },
+    "dimension": {
+      "s": {
+        "value": "4px",
+        "type": "dimension"
+      },
+      "m": {
+        "value": "{semantic.sizing.xs}",
+        "type": "dimension"
+      },
+      "l": {
+        "value": "{semantic.sizing.xs} * 1.25",
+        "type": "dimension"
+      },
+      "xl": {
+        "value": "{semantic.sizing.xl}",
+        "type": "dimension"
+      }
+    }
+  }
+}
